@@ -102,9 +102,6 @@ The script generates:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Specify your license here, e.g., MIT License]
 
 ## Acknowledgments
 
